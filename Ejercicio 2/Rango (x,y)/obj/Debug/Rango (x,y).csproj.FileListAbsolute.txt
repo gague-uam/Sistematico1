@@ -1,0 +1,10 @@
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\bin\Debug\Rango (x,y).exe.config
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\bin\Debug\Rango (x,y).exe
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\bin\Debug\Rango (x,y).pdb
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango (x,y).csproj.AssemblyReference.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango__x_y_.Form1.resources
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango__x_y_.Properties.Resources.resources
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango (x,y).csproj.GenerateResource.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango (x,y).csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango (x,y).exe
+C:\Users\labc205\Desktop\SemestreIIEd\Sistematico1\Ejercicio 2\Rango (x,y)\obj\Debug\Rango (x,y).pdb
