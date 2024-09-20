@@ -1,0 +1,10 @@
+C:\Sistemático 1\controlAcceso\bin\Debug\controlAcceso.exe.config
+C:\Sistemático 1\controlAcceso\bin\Debug\controlAcceso.exe
+C:\Sistemático 1\controlAcceso\bin\Debug\controlAcceso.pdb
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.csproj.AssemblyReference.cache
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.Form1.resources
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.Properties.Resources.resources
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.csproj.GenerateResource.cache
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.csproj.CoreCompileInputs.cache
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.exe
+C:\Sistemático 1\controlAcceso\obj\Debug\controlAcceso.pdb
